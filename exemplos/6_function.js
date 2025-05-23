@@ -1,5 +1,9 @@
-function contaLetras(palavra){
-    return palavra.length;
+function contaLetras(palavra) {
+  return palavra.length;
 }
 
-console.log(contaLetras("Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu"))
+console.log(
+  contaLetras(
+    "Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu"
+  )
+);

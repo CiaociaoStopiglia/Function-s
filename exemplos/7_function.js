@@ -1,5 +1,5 @@
-function numeroAleatorio(){
-    return Math.floor(Math.random() * 10) + 1;
+function numeroAleatorio() {
+  return Math.floor(Math.random() * 10) + 1;
 }
 
-console.log(numeroAleatorio())
+console.log(numeroAleatorio());
